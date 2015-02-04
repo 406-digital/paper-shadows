@@ -41,7 +41,9 @@ Once you've imported them, simply call the mixin like (LESS):
 	.shadow-level(1);
 }
 ````
-with an appropriate level from 1 - 5.
+* Options range from `-1` to `5`
+    * `-1` will cause an inset shadow
+    * `0` will cause no shadow
 
 Feedback
 --------------
