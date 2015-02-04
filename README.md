@@ -29,7 +29,7 @@ Import the appropriate file into the preprocessor of your choice:
 
 **Stylus:**
 
-````Stylus
+````Sass
   @import "stylus/shadows"
 ````
 
