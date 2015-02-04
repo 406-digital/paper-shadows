@@ -1,0 +1,32 @@
+{
+  "name": "material-design-shadows",
+  "version": "0.1.0",
+  "homepage": "https://github.com/406-digital/shadows",
+  "authors": [
+    "406 Digital <info@406.io>"
+  ],
+  "description": "Preprocessor mixins for applying material design shadows",
+  "keywords": [
+    "material",
+    "material",
+    "design",
+    "material",
+    "shadows",
+    "material",
+    "design",
+    "shadows",
+    "less",
+    "sass",
+    "stylus"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "gulpfile.js",
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "example.html"
+  ]
+}

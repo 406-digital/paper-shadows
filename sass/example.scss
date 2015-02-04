@@ -1,0 +1,25 @@
+@import 'shadows.scss';
+
+/**
+ * Generated from SASS
+ */
+
+.shadow-1 {
+	@include shadow-level(1);	
+}
+
+.shadow-2 {
+	@include shadow-level(2);	
+}
+
+.shadow-3 {
+	@include shadow-level(3);	
+}
+
+.shadow-4 {
+	@include shadow-level(4);	
+}
+
+.shadow-5 {
+	@include shadow-level(5);	
+}
