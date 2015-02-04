@@ -10,7 +10,7 @@ Installation
 bower install paper-shadows --save
 ```
  
-How to use
+Usage
 --------------
 
 Import the appropriate file into the preprocessor of your choice:
@@ -33,4 +33,16 @@ Import the appropriate file into the preprocessor of your choice:
   @import "stylus/shadows"
 ````
 
-Note that the import path is relative to the current less file, your path may vary.
+Note - import path is relative to the current less file, your path may differ.
+
+Once you've imported them, simply call the mixin like (LESS):
+````Less
+.your-class {
+	.shadow-level(1);
+}
+````
+with an appropriate level from 1 - 5.
+
+Feedback
+--------------
+Have something to say? Find a bug? Please [open a new issue](https://github.com/406-digital/paper-shadows/issues) here on github.
