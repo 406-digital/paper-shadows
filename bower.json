@@ -27,6 +27,10 @@
     "bower_components",
     "test",
     "tests",
-    "example.html"
+    "example.html",
+    "css",
+    "less/example.less",
+    "sass/example.scss",
+    "stylus/example.styl"
   ]
 }
